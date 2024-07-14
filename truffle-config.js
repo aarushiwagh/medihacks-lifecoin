@@ -8,7 +8,7 @@ module.exports = {
     //to use custom networks, type: truffle console --network dev
     dev: { // default with truffle unbox is 7545, but we can use develop to test changes, ex. truffle migrate --network develop
       host: "0.0.0.0",
-      port: 10000,
+      port: 8000,
       network_id: "5777"
     }
   }

@@ -14,7 +14,7 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
-    "start": "HOST=0.0.0.0 PORT=10000 react-scripts start",
+    "start": "HOST=0.0.0.0 PORT=8000 react-scripts start",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
